@@ -1,0 +1,30 @@
+.counterDiv {
+  text-align: center;
+  padding: 20px;
+}
+
+.counterValue {
+  font-size: larger;
+  font-weight: 700;
+}
+
+.counterButton {
+  margin: 5px;
+  padding: 10px 20px;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.counterButtonSub {
+  background-color: red;
+}
+
+.counterButtonAdd {
+  background-color: green;
+}
+
+.counterButtonReset {
+  background-color: blue;
+}
